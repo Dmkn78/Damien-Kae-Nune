@@ -27,7 +27,7 @@ Python · C · Mardown
 HTML5 · CSS3 · Fetch API · JavaScript · PHP
 
 **Backend & Data**  
-PHP · JSON file handling · Shell scripting · File I/O
+PHP · JSON file handling 
 
 **Data Science / Finance Tools**  
 Pandas · NumPy · Matplotlib · yfinance
