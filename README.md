@@ -21,7 +21,7 @@ Here are my two most recent projects:
 
 ## 🚧 Projects in Development
 
-- **Modern Portfolio Management (Python)**: Implementation of the Markowitz efficient frontier, calculation of risk/return ratios (Sharpe, Beta, Alpha...), and interactive data visualization in Python.
+- **Modern Portfolio Management (Python)**: Implementation of the Markowitz efficient frontier (✅), calculation of risk/return ratios (✅), and interactive data visualization in Python.
 
 ## 📚 Learning Roadmap  
 
